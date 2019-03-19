@@ -41,11 +41,9 @@ namespace enfunip
 
         private void btnEntrar_Click(object sender, EventArgs e)
         {
-            Controle controle = new Controle();
-            controle.usuario = txbUsuario.Text;
-            controle.senha = txbSenha.Text;
-            controle.Executar();
-            if (controle.mensagem.Equals(""))
+            Controle controle = new Controle(txbUsuario.Text,txbSenha.Text);
+            
+            if (controle.Mensagem.Equals(""))
             {
                 this.Hide();
 
@@ -56,7 +54,7 @@ namespace enfunip
             }
             else
             {
-                MessageBox.Show(controle.mensagem);
+                MessageBox.Show(controle.Mensagem);
             }
 
         }

@@ -10,24 +10,31 @@ namespace enfunip.modelo
 {
     class Controle
     {
-        public String usuario;
-        public String senha;
-        public String mensagem;
+        private String usuario;
+        private String senha;
+        private String mensagem;
 
-        public void Executar()
+        public Controle(string usuario, string senha)
+        {
+            this.usuario = usuario;
+            this.senha = senha;
+            Executar();
+        }
+
+        public string Mensagem { get => mensagem;}
+
+        private void Executar()
         {
             this.mensagem = "";
-            Validacao validacao = new Validacao();
-            validacao.usuario = this.usuario;
-            validacao.senha = this.senha;
-            validacao.Validar();
-            if (validacao.mensagem.Equals(""))
+            Validacao validacao = new Validacao(this.usuario, this.senha);
+            
+            if (validacao.Mensagem.Equals(""))
             {
                 this.mensagem = "";               
             }
             else
             {
-                this.mensagem = validacao.mensagem;
+                this.mensagem = validacao.Mensagem;
             }
         }
     }

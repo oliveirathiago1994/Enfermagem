@@ -9,11 +9,20 @@ namespace enfunip.modelo
 {
     class Validacao
     {
-        public String usuario;
-        public String senha;
-        public String mensagem;
+        private String usuario;
+        private String senha;
+        private String mensagem;
 
-        public void Validar()
+        public Validacao(string usuario, string senha)
+        {
+            this.usuario = usuario;
+            this.senha = senha;
+            Validar();
+        }
+
+        public string Mensagem { get => mensagem;}
+
+        private void Validar()
         {
             this.mensagem = "";
             try
