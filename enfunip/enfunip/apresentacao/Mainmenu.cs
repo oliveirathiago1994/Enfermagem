@@ -61,5 +61,11 @@ namespace enfunip.apresentacao
         {
 
         }
+
+        private void agendarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Agendamento Agendamento = new Agendamento();
+            Agendamento.Show();
+        }
     }
 }

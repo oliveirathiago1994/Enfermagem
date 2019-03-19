@@ -68,6 +68,9 @@
     <Compile Include="modelo\Validacao.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="apresentacao\Agendamento.resx">
+      <DependentUpon>Agendamento.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="apresentacao\Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>

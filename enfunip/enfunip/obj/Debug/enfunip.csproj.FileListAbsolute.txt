@@ -9,3 +9,15 @@ C:\Users\Isac\Desktop\pim\1-2019\enfunip\enfunip\obj\Debug\enfunip.exe
 C:\Users\Isac\Desktop\pim\1-2019\enfunip\enfunip\obj\Debug\enfunip.pdb
 C:\Users\Isac\Desktop\pim\1-2019\enfunip\enfunip\obj\Debug\enfunip.FrmEnfermagem.resources
 C:\Users\Isac\Desktop\pim\1-2019\enfunip\enfunip\obj\Debug\enfunip.apresentacao.FrmMainmenu.resources
+C:\Users\Vinicius\Documents\GitHub\Enfermagem\enfunip\enfunip\bin\Debug\enfunip.exe.config
+C:\Users\Vinicius\Documents\GitHub\Enfermagem\enfunip\enfunip\bin\Debug\enfunip.exe
+C:\Users\Vinicius\Documents\GitHub\Enfermagem\enfunip\enfunip\bin\Debug\enfunip.pdb
+C:\Users\Vinicius\Documents\GitHub\Enfermagem\enfunip\enfunip\obj\Debug\enfunip.csprojAssemblyReference.cache
+C:\Users\Vinicius\Documents\GitHub\Enfermagem\enfunip\enfunip\obj\Debug\enfunip.FrmEnfermagem.resources
+C:\Users\Vinicius\Documents\GitHub\Enfermagem\enfunip\enfunip\obj\Debug\enfunip.apresentacao.FrmMainmenu.resources
+C:\Users\Vinicius\Documents\GitHub\Enfermagem\enfunip\enfunip\obj\Debug\enfunip.Properties.Resources.resources
+C:\Users\Vinicius\Documents\GitHub\Enfermagem\enfunip\enfunip\obj\Debug\enfunip.csproj.GenerateResource.cache
+C:\Users\Vinicius\Documents\GitHub\Enfermagem\enfunip\enfunip\obj\Debug\enfunip.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Documents\GitHub\Enfermagem\enfunip\enfunip\obj\Debug\enfunip.exe
+C:\Users\Vinicius\Documents\GitHub\Enfermagem\enfunip\enfunip\obj\Debug\enfunip.pdb
+C:\Users\Vinicius\Documents\GitHub\Enfermagem\enfunip\enfunip\obj\Debug\enfunip.apresentacao.Agendamento.resources

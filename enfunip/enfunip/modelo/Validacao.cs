@@ -27,7 +27,7 @@ namespace enfunip.modelo
             this.mensagem = "";
             try
             {
-                if (this.usuario == "isac23" && this.senha == "123" )
+                if (this.usuario == "admin" && this.senha == "admin" )
                 {
                     this.mensagem = "";
                 }
