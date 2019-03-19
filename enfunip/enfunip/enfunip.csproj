@@ -46,11 +46,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="apresentacao\Form1.cs">
+    <Compile Include="apresentacao\Agendamento.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="apresentacao\Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="apresentacao\Agendamento.Designer.cs">
+      <DependentUpon>Agendamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="apresentacao\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="apresentacao\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
     </Compile>
     <Compile Include="apresentacao\Mainmenu.cs">
       <SubType>Form</SubType>
@@ -62,8 +68,8 @@
     <Compile Include="modelo\Validacao.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="apresentacao\Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="apresentacao\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="apresentacao\Mainmenu.resx">
       <DependentUpon>Mainmenu.cs</DependentUpon>
