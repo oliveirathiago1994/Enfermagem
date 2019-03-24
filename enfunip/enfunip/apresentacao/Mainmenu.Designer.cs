@@ -207,6 +207,7 @@
             this.cadastroDePacientesToolStripMenuItem.Name = "cadastroDePacientesToolStripMenuItem";
             this.cadastroDePacientesToolStripMenuItem.Size = new System.Drawing.Size(203, 22);
             this.cadastroDePacientesToolStripMenuItem.Text = "Cadastro de Pacientes";
+            this.cadastroDePacientesToolStripMenuItem.Click += new System.EventHandler(this.cadastroDePacientesToolStripMenuItem_Click);
             // 
             // funcionáriosToolStripMenuItem
             // 
@@ -241,14 +242,14 @@
             // agendarToolStripMenuItem
             // 
             this.agendarToolStripMenuItem.Name = "agendarToolStripMenuItem";
-            this.agendarToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.agendarToolStripMenuItem.Size = new System.Drawing.Size(169, 22);
             this.agendarToolStripMenuItem.Text = "Agendar";
             this.agendarToolStripMenuItem.Click += new System.EventHandler(this.agendarToolStripMenuItem_Click);
             // 
             // consultarAgendaToolStripMenuItem
             // 
             this.consultarAgendaToolStripMenuItem.Name = "consultarAgendaToolStripMenuItem";
-            this.consultarAgendaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.consultarAgendaToolStripMenuItem.Size = new System.Drawing.Size(169, 22);
             this.consultarAgendaToolStripMenuItem.Text = "Consultar Agenda";
             // 
             // estoqueToolStripMenuItem

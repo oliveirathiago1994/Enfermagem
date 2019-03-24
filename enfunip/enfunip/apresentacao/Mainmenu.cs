@@ -67,5 +67,11 @@ namespace enfunip.apresentacao
             Agendamento Agendamento = new Agendamento();
             Agendamento.Show();
         }
+
+        private void cadastroDePacientesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Cadastro_Paciente cadastro_Paciente = new Cadastro_Paciente();
+            cadastro_Paciente.Show();
+        }
     }
 }

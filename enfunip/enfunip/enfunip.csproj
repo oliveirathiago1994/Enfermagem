@@ -52,6 +52,12 @@
     <Compile Include="apresentacao\Agendamento.Designer.cs">
       <DependentUpon>Agendamento.cs</DependentUpon>
     </Compile>
+    <Compile Include="apresentacao\Cadastro_Paciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="apresentacao\Cadastro_Paciente.Designer.cs">
+      <DependentUpon>Cadastro_Paciente.cs</DependentUpon>
+    </Compile>
     <Compile Include="apresentacao\Login.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -70,6 +76,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="apresentacao\Agendamento.resx">
       <DependentUpon>Agendamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="apresentacao\Cadastro_Paciente.resx">
+      <DependentUpon>Cadastro_Paciente.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="apresentacao\Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
