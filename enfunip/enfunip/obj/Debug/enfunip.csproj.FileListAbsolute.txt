@@ -34,3 +34,16 @@ C:\Users\welli\OneDrive\Documentos\GitHub\Enfermagem\enfunip\enfunip\obj\Debug\e
 C:\Users\welli\OneDrive\Documentos\GitHub\Enfermagem\enfunip\enfunip\obj\Debug\enfunip.exe
 C:\Users\welli\OneDrive\Documentos\GitHub\Enfermagem\enfunip\enfunip\obj\Debug\enfunip.pdb
 C:\Users\welli\OneDrive\Documentos\GitHub\Enfermagem\enfunip\enfunip\obj\Debug\enfunip.apresentacao.Cadastro_Paciente.resources
+C:\Users\Wellington\Documents\GitHub\Enfermagem\enfunip\enfunip\bin\Debug\enfunip.exe.config
+C:\Users\Wellington\Documents\GitHub\Enfermagem\enfunip\enfunip\bin\Debug\enfunip.exe
+C:\Users\Wellington\Documents\GitHub\Enfermagem\enfunip\enfunip\bin\Debug\enfunip.pdb
+C:\Users\Wellington\Documents\GitHub\Enfermagem\enfunip\enfunip\obj\Debug\enfunip.csprojAssemblyReference.cache
+C:\Users\Wellington\Documents\GitHub\Enfermagem\enfunip\enfunip\obj\Debug\enfunip.apresentacao.Agendamento.resources
+C:\Users\Wellington\Documents\GitHub\Enfermagem\enfunip\enfunip\obj\Debug\enfunip.apresentacao.frm_Cadastro_Paciente.resources
+C:\Users\Wellington\Documents\GitHub\Enfermagem\enfunip\enfunip\obj\Debug\enfunip.FrmEnfermagem.resources
+C:\Users\Wellington\Documents\GitHub\Enfermagem\enfunip\enfunip\obj\Debug\enfunip.apresentacao.FrmMainmenu.resources
+C:\Users\Wellington\Documents\GitHub\Enfermagem\enfunip\enfunip\obj\Debug\enfunip.Properties.Resources.resources
+C:\Users\Wellington\Documents\GitHub\Enfermagem\enfunip\enfunip\obj\Debug\enfunip.csproj.GenerateResource.cache
+C:\Users\Wellington\Documents\GitHub\Enfermagem\enfunip\enfunip\obj\Debug\enfunip.csproj.CoreCompileInputs.cache
+C:\Users\Wellington\Documents\GitHub\Enfermagem\enfunip\enfunip\obj\Debug\enfunip.exe
+C:\Users\Wellington\Documents\GitHub\Enfermagem\enfunip\enfunip\obj\Debug\enfunip.pdb

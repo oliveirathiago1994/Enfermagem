@@ -10,22 +10,21 @@ using System.Windows.Forms;
 
 namespace enfunip.apresentacao
 {
-    public partial class Cadastro_Paciente : Form
+    public partial class frm_Cadastro_Paciente : Form
     {
-        public Cadastro_Paciente()
+        public frm_Cadastro_Paciente()
         {
             InitializeComponent();
         }
 
         private void btn_Salvar_Click(object sender, EventArgs e)
         {
-            timer_CadastroPaciente.Start();
+            MessageBox.Show("Salvo com sucesso.");
         }
 
         private void timer_CadastroPaciente_Tick(object sender, EventArgs e)
         {
-            pbr_Cadastro.Increment(10);
-            
+           
         }
 
         private void pbr_Cadastro_Click(object sender, EventArgs e)

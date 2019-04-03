@@ -70,7 +70,7 @@ namespace enfunip.apresentacao
 
         private void cadastroDePacientesToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Cadastro_Paciente cadastro_Paciente = new Cadastro_Paciente();
+            frm_Cadastro_Paciente cadastro_Paciente = new frm_Cadastro_Paciente();
             cadastro_Paciente.Show();
         }
     }
