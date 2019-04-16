@@ -115,9 +115,26 @@
   <ItemGroup>
     <None Include="Resources\logounip2.gif" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\novo.png" />
+  </ItemGroup>
   <ItemGroup>
     <None Include="Resources\logounip3.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save_37110.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salvar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\excluir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cancelar.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

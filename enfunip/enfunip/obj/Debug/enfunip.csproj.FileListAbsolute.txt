@@ -47,3 +47,4 @@ C:\Users\Wellington\Documents\GitHub\Enfermagem\enfunip\enfunip\obj\Debug\enfuni
 C:\Users\Wellington\Documents\GitHub\Enfermagem\enfunip\enfunip\obj\Debug\enfunip.csproj.CoreCompileInputs.cache
 C:\Users\Wellington\Documents\GitHub\Enfermagem\enfunip\enfunip\obj\Debug\enfunip.exe
 C:\Users\Wellington\Documents\GitHub\Enfermagem\enfunip\enfunip\obj\Debug\enfunip.pdb
+C:\Users\Vinicius\Documents\GitHub\Enfermagem\enfunip\enfunip\obj\Debug\enfunip.apresentacao.frm_Cadastro_Paciente.resources
